@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RegisterSystem:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RegisterSystem_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RegisterSystem/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RegisterSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.2.14" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: commons-dbutils:commons-dbutils:1.7" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.22" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

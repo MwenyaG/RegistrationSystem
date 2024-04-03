@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1669486594272" clover="3.2.0">
+  <project timestamp="1669486594272" name="All files">
+    <metrics statements="84" coveredstatements="78" conditionals="76" coveredconditionals="66" methods="11" coveredmethods="11" elements="171" coveredelements="155" complexity="0" loc="84" ncloc="84" packages="2" files="5" classes="5"/>
+    <package name="out.artifacts.RegisterSystem_war_exploded.js">
+      <metrics statements="36" coveredstatements="33" conditionals="38" coveredconditionals="33" methods="4" coveredmethods="4"/>
+      <file name="validatePassword.js" path="/Users/xiongkouqin/Desktop/SVV Assignment 2/RegisterSystem/out/artifacts/RegisterSystem_war_exploded/js/validatePassword.js">
+        <metrics statements="36" coveredstatements="33" conditionals="38" coveredconditionals="33" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="18" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="10" type="cond" truecount="11" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="31" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="34" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="39" count="1" type="cond" truecount="4" falsecount="1"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="61" count="4" type="stmt"/>
+        <line num="62" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="64" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="68" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="71" count="9" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="web.js">
+      <metrics statements="48" coveredstatements="45" conditionals="38" coveredconditionals="33" methods="7" coveredmethods="7"/>
+      <file name="validateFirstname.js" path="/Users/xiongkouqin/Desktop/SVV Assignment 2/RegisterSystem/web/js/validateFirstname.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+      <file name="validateLastname.js" path="/Users/xiongkouqin/Desktop/SVV Assignment 2/RegisterSystem/web/js/validateLastname.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+      <file name="validatePassword.js" path="/Users/xiongkouqin/Desktop/SVV Assignment 2/RegisterSystem/web/js/validatePassword.js">
+        <metrics statements="36" coveredstatements="33" conditionals="38" coveredconditionals="33" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="18" type="cond" truecount="3" falsecount="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="10" type="cond" truecount="11" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="4" type="stmt"/>
+        <line num="48" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="51" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="56" count="1" type="cond" truecount="4" falsecount="1"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="77" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="78" count="4" type="stmt"/>
+        <line num="79" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="80" count="4" type="stmt"/>
+        <line num="81" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="85" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="88" count="9" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+      </file>
+      <file name="validateUsername.js" path="/Users/xiongkouqin/Desktop/SVV Assignment 2/RegisterSystem/web/js/validateUsername.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
